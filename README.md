@@ -5,7 +5,7 @@
 <div align="center">
   <h2>📊 Meus stats:</h2>
   <a href="https://github.com/Guinki/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Guinki&hide=contribs&show_icons=true" alt="Guinki's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Guinki&hide=contribs&show_icons=true&layout=compact" alt="Guinki's GitHub stats">
   </a>
   <a href="https://github.com/Guinki/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guinki&show_icons=true&theme=radical" alt="Top Langs">
