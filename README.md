@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Guinki&hide=contribs&theme=radical&show_icons=true" alt="Guinki's GitHub stats">
   </a>
   <a href="https://github.com/Guinki/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guinki&layout=compact&show_icons=true&theme=radical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guinki&show_icons=true&theme=radical" alt="Top Langs">
   </a>
 </div>
 
