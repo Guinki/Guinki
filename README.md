@@ -1,4 +1,4 @@
-### <h2 align="center" dir="auto"> 👋 Sejam bem vindos! </h2>
+### <h2 align="center" dir="auto"> 👋 Sejam bem-vindos! </h2>
 <p align="center" dir="auto">
   <samp>Me chamo Guilherme, sou formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo como Engenheiro de Testes. Participei dos processos de qualidade de projetos de amplitude nacional nos clientes CAIXA e Polícia Federal. </samp><br><br>
 
